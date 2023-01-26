@@ -1,0 +1,263 @@
+{"articles": [
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Holly Ellyatt",
+        "title": "Ukraine war live updates: Blasts rock Kyiv as drones attack the capital; Belarus watched for signs it's preparing for war - CNBC",
+        "description": "Ukraine's capital Kyiv woke to blasts and air raid sirens on Wednesday, while Belarus is being closely watched for any signs it is preparing for war.",
+        "url": "https://www.cnbc.com/2022/12/14/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107165765-1670998357412-gettyimages-1245580420-AFP_333B3MN.jpeg?v=1670999821&w=1920&h=1080",
+        "publishedAt": "2022-12-14T07:32:00Z",
+        "content": "Britain's Ministry of Defense said Wednesday that the debate over the conduct of the war in Russia is likely to be fraught, citing recent criticism from a well-known Russian nationalist as symptomati… [+734 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Joe Prince-Wright",
+        "title": "Messi leads rout of Croatia as Argentina reach World Cup final - NBC Sports",
+        "description": "Argentina beat Croatia 3-0 to reach the World Cup final as Lionel Messi worked his magic to move one win away from winning the trophy he covets most.",
+        "url": "https://soccer.nbcsports.com/2022/12/14/argentina-vs-croatia-video-highlights-reaction-analysis/",
+        "urlToImage": "https://soccer.nbcsports.com/wp-content/uploads/sites/14/2022/12/GettyImages-1245584402-e1670961144622.jpg",
+        "publishedAt": "2022-12-14T07:30:00Z",
+        "content": "Argentina beat Croatia 3-0 to reach the World Cup final as Lionel Messi worked his magic to move one win away from winning the trophy he covets most.\r\nThe world (aside from one of France or Morocco) … [+5586 chars]"
+    },
+    {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": null,
+        "title": "'Tough times': Warnings sound over China's rapid 'zero-COVID' exit - Reuters",
+        "description": "A week after China began dismantling its tough 'zero-COVID' controls, <a href=\"/world/china/china-faces-tough-zero-covid-exit-who-says-2022-12-13/\">the World Health Organization</a> warned of \"very tough\" times ahead and state media reported some seriously il…",
+        "url": "https://www.reuters.com/world/china/tough-times-warnings-sound-over-chinas-rapid-zero-covid-exit-2022-12-14/",
+        "urlToImage": "https://www.reuters.com/resizer/ZfH70eQLI7kRvtDZo7LznQxxaR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VV6JNK63CFNIPOFYS5TH4QRBVA.jpg",
+        "publishedAt": "2022-12-14T06:28:00Z",
+        "content": "BEIJING, Dec 14 (Reuters) - A week after China began dismantling its tough 'zero-COVID' controls, the World Health Organization warned of \"very tough\" times ahead and state media reported some seriou… [+4880 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Jack Baer",
+        "title": "Celtics pull out wild OT win after exchanging 4th-quarter collapses with Lakers - Yahoo Sports",
+        "description": "What a win for the Celtics, what a loss for the Lakers.",
+        "url": "https://sports.yahoo.com/celtics-pull-out-wild-ot-win-after-exchanging-4th-quarter-collapses-with-lakers-055342886.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5bHXsPwpj9CmWC.dk_e7iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Nzc-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/6526a3c0-7b73-11ed-bbcf-c52712357094",
+        "publishedAt": "2022-12-14T05:53:00Z",
+        "content": "For a few minutes, it looked like the Los Angeles Lakers were getting the best win of their season. Then the Boston Celtics woke back up.\r\nIn one of the wildest NBA games of the season, the Celtics d… [+1972 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ESPN"
+        },
+        "author": "Jeff Passan",
+        "title": "San Francisco Giants, Carlos Correa agree to 13-year, $350M deal - ESPN",
+        "description": "The Giants and Carlos Correa have agreed to the fourth-largest contract in MLB history, a $350 million deal over 13 years, a source told ESPN.",
+        "url": "https://www.espn.com/mlb/story/_/id/35249116/san-francisco-giants-carlos-correa-agree-13-year-350m-deal",
+        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1213%2Fmlb_correa_giants_16x9.jpg",
+        "publishedAt": "2022-12-14T05:40:38Z",
+        "content": "Shortstop Carlos Correa and the San Francisco Giants are in agreement on a 13-year, $350 million contract, a source familiar with the deal told ESPN.\r\nThe deal comes with a full no-trade clause but d… [+5075 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Carmen Reinicke",
+        "title": "Stock futures rise as investors await Wednesday's Federal Reserve rate decision - CNBC",
+        "description": "Here's how stocks are trading ahead of the December Federal Open Market Committee meeting.",
+        "url": "https://www.cnbc.com/2022/12/13/stock-market-futures-open-to-close-news.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107162939-1670445653112-nyse.jpg?v=1670972498&w=1920&h=1080",
+        "publishedAt": "2022-12-14T05:15:00Z",
+        "content": "Stock futures rose Wednesday morning as investors await the Federal Reserve's latest interest rate hike decision in its effort to crush inflation, set to be delivered on Wednesday.\r\nDow Jones Industr… [+1541 chars]"
+    },
+    {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": null,
+        "title": "Biden signs marriage equality act to tune of Cyndi Lauper's 'True Colors' - Reuters",
+        "description": "U.S. President Joe Biden signed the Respect for Marriage Act into law on Tuesday at a jubilant celebration that featured U.S. singer Cyndi Lauper performing \"True Colors\" in front of thousands of supporters on the White House lawn.",
+        "url": "https://www.reuters.com/world/us/cyndi-lauper-perform-biden-signs-marriage-equality-act-2022-12-13/",
+        "urlToImage": "https://www.reuters.com/resizer/GcY4cyBlkVvPqNIeYceg8Bj806I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y7LNSDZMBBKSPERYAZASQUU4W4.jpg",
+        "publishedAt": "2022-12-14T04:35:00Z",
+        "content": "WASHINGTON, Dec 13 (Reuters) - U.S. President Joe Biden signed the Respect for Marriage Act into law on Tuesday at a jubilant celebration that featured U.S. singer Cyndi Lauper performing \"True Color… [+2092 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Barbara Starr, Oren Liebermann",
+        "title": "Exclusive: US finalizing plans to send Patriot missile defense system to Ukraine - CNN",
+        "description": "The Biden administration is finalizing plans to send the Patriot missile defense system to Ukraine that could be announced as soon as this week, according to two US officials and a senior administration official.",
+        "url": "https://www.cnn.com/2022/12/13/politics/us-patriot-missile-defense-system-ukraine/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220310121326-patriot-missile-system.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-12-14T04:06:00Z",
+        "content": "The Biden administration is finalizing plans to send the Patriot missile defense system to Ukraine that could be announced as soon as this week, according to two US officials and a senior administrat… [+3697 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "The New Day bask in NXT glory: WWE NXT, Dec. 13, 2022 - WWE",
+        "description": "New and old threats confront Kofi Kingston & Xavier Woods as they celebrate their NXT Tag Team Championship victory at NXT Deadline. Catch WWE action on Peac...",
+        "url": "https://www.youtube.com/watch?v=ZtiI5jYD9us",
+        "urlToImage": "https://i.ytimg.com/vi/ZtiI5jYD9us/maxresdefault.jpg",
+        "publishedAt": "2022-12-14T03:50:13Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Manu Raju, Melanie Zanona",
+        "title": "McCarthy and McConnell on collision course as Congress barrels toward messy finish - CNN",
+        "description": "House GOP Leader Kevin McCarthy took to Fox News primetime last week and dinged his counterpart across the Capitol: Senate GOP Leader Mitch McConnell.",
+        "url": "https://www.cnn.com/2022/12/13/politics/kevin-mccarthy-mitch-mcconnell-collision-course/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220729074522-mitch-mcconnell-kevin-mccarthy-split.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-12-14T03:22:00Z",
+        "content": "House GOP Leader Kevin McCarthy took to Fox News primetime last week and dinged his counterpart across the Capitol: Senate GOP Leader Mitch McConnell. \r\nRepublicans are wrong if they want to cut a ye… [+8677 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Guardian"
+        },
+        "author": "Abené Clayton",
+        "title": "‘Going through torture’: Megan Thee Stallion testifies against Tory Lanez - The Guardian",
+        "description": "Rapper takes stand in case against Canadian-born musician, emotionally recounting night when she was shot",
+        "url": "https://www.theguardian.com/music/2022/dec/13/megan-thee-stallion-testify-tory-lanez-los-angeles-court",
+        "urlToImage": "https://i.guim.co.uk/img/media/e704ef0f584dcad96e87d9ba0817408a5d1a61ba/0_38_2274_1364/master/2274.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f96d4ef1a57c5afa3c4cd316593c3ac",
+        "publishedAt": "2022-12-14T02:44:00Z",
+        "content": "Megan Thee Stallion delivered emotional testimony on Tuesday in the trial of Tory Lanez, the fellow musician and former friend who allegedly shot her following a party in Los Angeles.\r\nThe Texas-born… [+5149 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Fred Pleitgen, Ivana Kottasová",
+        "title": "'There are maniacs who enjoy killing,' Russian defector says of his former unit accused of war crimes in Bucha - CNN",
+        "description": "Nikita Chibrin says he still remembers his fellow Russian soldiers running away after allegedly raping two Ukrainian women during their deployment northwest of Kyiv in March.",
+        "url": "https://www.cnn.com/2022/12/13/europe/russian-defector-war-crimes-intl-cmd/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221213103523-russian-defector-nikita-chibrin.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-12-14T02:09:00Z",
+        "content": "Nikita Chibrin says he still remembers his fellow Russian soldiers running away after allegedly raping two Ukrainian women during their deployment northwest of Kyiv in March.\r\nI saw them run, then I … [+8161 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "Tornado Spotted in Four Forks, LA - FOX Weather",
+        "description": "Tornado spotted in Four Fork, Louisiana lofting debris in the air. Damage has been reported in the area. #foxweather #weather #tornado #louisiana Subscribe t...",
+        "url": "https://www.youtube.com/watch?v=jKG4hn_SejU",
+        "urlToImage": "https://i.ytimg.com/vi/jKG4hn_SejU/maxresdefault.jpg",
+        "publishedAt": "2022-12-14T01:45:02Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "LA declares state of emergency over homelessness - FOX 11 Los Angeles",
+        "description": "Keeping a campaign promise, the LA City Council approved Karen Bass' state of emergency declaration on homelessness.Subscribe to FOX 11 Los Angeles: https://...",
+        "url": "https://www.youtube.com/watch?v=rHFupHxJ3Qo",
+        "urlToImage": "https://i.ytimg.com/vi/rHFupHxJ3Qo/maxresdefault.jpg",
+        "publishedAt": "2022-12-14T01:23:39Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Guardian"
+        },
+        "author": "Guardian staff reporter",
+        "title": "Nasa mission will give unprecedented view of Earth’s surface water - The Guardian",
+        "description": "The Swot satellite is scheduled to be launched Thursday morning, and will use advanced radar to more fully map Earth’s vital resource",
+        "url": "https://www.theguardian.com/science/2022/dec/13/nasa-swot-satellite-radar-survey-launch",
+        "urlToImage": "https://i.guim.co.uk/img/media/c002dd01300486a3ce631ec977fd4e6455bcbf02/80_0_2400_1440/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bb4963499592ee2b5fe0137a5be84797",
+        "publishedAt": "2022-12-14T01:14:00Z",
+        "content": "A Nasa-led international satellite mission was set for blastoff from southern California early on Thursday as part of a major earth science project to conduct a comprehensive survey of the worlds oce… [+3656 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Biodiversity: Can we set aside a third of our planet for nature? - BBC",
+        "description": "Will a plan to protect 30% of the planet for nature by 2030 be agreed and how will it work?",
+        "url": "https://www.bbc.com/news/science-environment-63955526",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E5F4/production/_127986885_greenseaturtlegettyimages-1303975341.jpg",
+        "publishedAt": "2022-12-14T01:09:20Z",
+        "content": "It's being called a last chance for nature - 100 countries backing calls to protect 30% of the planet.\r\nThe aim is to reach this goal by 2030 and conserve forests and other vital ecosystems in order … [+6716 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Jonathan Vanian",
+        "title": "Jack Dorsey admits mistakes at Twitter, and says the site still has problems - CNBC",
+        "description": "Twitter co-founder Jack Dorsey wrote in a blog post that he gave up pushing for the changes he wanted at Twitter after activist investors came into the company.",
+        "url": "https://www.cnbc.com/2022/12/13/jack-dorsey-admits-mistakes-at-twitter-says-site-still-has-problems.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106981719-16382116412021-11-29t143438z_1944405293_rc2e4r9t4sku_rtrmadp_0_twitter-ceo.jpeg?v=1670979447&w=1920&h=1080",
+        "publishedAt": "2022-12-14T00:57:00Z",
+        "content": "Twitter co-founder and CEO Jack Dorsey didn't mention Elon Musk by name. But in a blog post on Tuesday, he made it clear that the company he once led still had significant problems then and now.\r\nDor… [+2606 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gold Derby"
+        },
+        "author": "John Benutty",
+        "title": "‘The Voice’ season 22 episode 25 recap: Who was crowned the winner in ‘Live Finale, Part 2’? [UPDATING LIVE BLOG] - Gold Derby",
+        "description": "The top five contestants sang their hearts out for America’s final vote on Monday’s “Live Finale, Part 1” episode of “The Voice.” Tonight, host Carson Daly reveals who has been chosen as the winner. The star-studded finale features special performances by cha…",
+        "url": "https://www.goldderby.com/article/2022/the-voice-season-22-episode-25-recap/",
+        "urlToImage": "https://www.goldderby.com/wp-content/uploads/2022/12/The-Voice-Season-22-finalists.jpg",
+        "publishedAt": "2022-12-14T00:30:00Z",
+        "content": "The top five contestants sang their hearts out for America’s final vote on Monday’s “Live Finale, Part 1” episode of “The Voice.” Tonight, host Carson Daly reveals who has been chosen as the winner. … [+5015 chars]"
+    },
+    {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Andrew Cunningham",
+        "title": "Only iPhones that can’t run iOS 16 are getting new iOS 15 updates - Ars Technica",
+        "description": "iPhone 6S, iPhone 7, and the last iPod Touch shift to security-only update model.",
+        "url": "https://arstechnica.com/gadgets/2022/12/apple-releases-ios-15-security-updates-for-devices-that-cant-upgrade-to-16/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/Apple_iOS15-avail_hero_09202021-760x380.jpg",
+        "publishedAt": "2022-12-13T22:44:51Z",
+        "content": "Enlarge/ iPhones running iOS 15.\r\n22 with 0 posters participating\r\nAs part of the barrage of operating system updates released earlier today, Apple published new iOS and iPadOS 15.7.2 updates that br… [+1808 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Cointelegraph"
+        },
+        "author": "Judith BannermanQuist",
+        "title": "Crypto community members discuss bank run on Binance - Cointelegraph",
+        "description": "The bank run on Binance comes only a month after CZ allegedly triggered a bank run on rival exchange FTX.",
+        "url": "https://cointelegraph.com/news/crypto-community-members-discuss-bank-run-on-binance",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2022-12/af4e4301-7ce2-496d-8cd5-158825fa889e.jpg",
+        "publishedAt": "2022-12-13T22:41:15Z",
+        "content": "Within the past 24 hours, cryptocurrency exchange Binance has seen outflows of over $1.14 billion due to rising FUD or fear, uncertainty and doubt within the crypto ecosystem. \r\nAccording to Binance … [+3533 chars]"
+    }
+]
+}
